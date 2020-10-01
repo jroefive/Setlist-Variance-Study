@@ -1,0 +1,3 @@
+/*! For license information please see 42.0eb13105.chunk.js.LICENSE.txt */
+(this["webpackJsonpstreamlit-browser"]=this["webpackJsonpstreamlit-browser"]||[]).push([[42],{2403:function(e,t,r){"use strict";r.r(t);var i=r(0),s=r.n(i),a=r(1061),n=r(45);var d=function(e){const t=e.disabled,r=e.element,i=e.widgetMgr,d=e.width,l=r.get("label"),o={width:d};return s.a.createElement("div",{className:"Widget row-widget stButton",style:o},s.a.createElement(a.a,{disabled:t,onClick:()=>{const e=r.get("id");i.setTriggerValue(e,{fromUi:!0})},overrides:n.a},l))};r.d(t,"default",(function(){return d}))}}]);
+//# sourceMappingURL=42.0eb13105.chunk.js.map
